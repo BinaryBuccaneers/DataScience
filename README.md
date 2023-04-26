@@ -30,14 +30,6 @@
   </ol>
 </details>
 
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-I've started a Data Science Project for all my fellow enthusiasts out there. This project aims to give you a brief overview of what Data Science is all about. 
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -62,33 +54,6 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m ...`)
 4. Push to the Branch (`git push origin ...`)
 5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Tobin Sia - tobinsia@gmail.com
-
-Project Link: ([https://github.com/tobinsia123/Data_Science](https://github.com/tobinsia123/Data_Science))
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tobin-sia-708bbb251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tobin-sia-708bbb251" height="30" width="40" /></a>
-<a href="https://instagram.com/tobinsia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tobinsia" height="30" width="40" /></a>
-</p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
